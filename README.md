@@ -1,10 +1,10 @@
 # prime-day-list
 
-Prime Day 2023 is coming, July 11-12.  People will be in a spending mood, so what better time to offer some deals?
+Prime Day 2023 is coming, July 11-12 - people will be in a spending mood, so what better time to offer some deals?
 
-Are you an Indie Developer, and interested in joining?  Create a Pull Request with your info, or let me know on Mastodon: @matt1corey@iosdev.space!
+Are you an Indie Developer, and interested in joining?  Create a Pull Request with your info, or let me know on [Mastodon](https://indieapps.space/@Matt1Corey)!
 
-Are you a member of the Apple Press?  The Indie Dev's listed below would very much appreciate some coverage! 😉🙏❤️
+Are you a member of the Apple Press?  The Indie Dev's listed below would very much appreciate some coverage, and a follow on social media! 😉🙏❤️
 
 # Indie Apps and Prime Day sales
 
