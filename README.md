@@ -1,4 +1,4 @@
-# prime-day-list
+# Indie Dev Sales
 
 Prime Day 2023 is coming, July 11-12 - people will be in a spending mood, so what better time to offer some deals?
 
