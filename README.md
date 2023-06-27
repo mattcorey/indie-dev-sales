@@ -8,7 +8,7 @@ Interested in joining?  Create a Pull Request with your info, or let me know on 
 A few things that will help:
 
 - Shouldn't need to be said, but please don't alter other people's records (behave!)
-- Try to add your entry in Alphabetal order, *BY DEVELOPER*. This should help to avoid most manual merges between different PR's, as changes will be in different parts of the doc.
+- Try to add your entry in Alphabetical order, *BY DEVELOPER*. This should help to avoid most manual merges between different PR's, as changes will be in different parts of the doc.
 - Before submitting _and after merging_, please verify that your links are all working. I'll do my best to keep them consistent, but errors may happen.
 
 ## Are you a member of the Apple Press?  
