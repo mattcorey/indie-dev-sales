@@ -15,7 +15,7 @@ A few things that will help:
 
 The Indie Dev's listed below would very much appreciate some coverage, and a follow on social media! 😉🙏❤️
 
-# Indie Apps and Prime Day sales
+# Indie Apps Sales
 
 | App Name and Link                                                                                   | Price                        | Platform                 | Developer     | Other Links                                                                                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------|------------------------------|--------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
