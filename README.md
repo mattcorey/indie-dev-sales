@@ -1,5 +1,7 @@
 # Indie Dev Sales
 
+![Indie App Sale!](./IndieAppSalesPromo.png)
+
 Prime Day 2023 is coming, July 11-12 - people will be in a spending mood, so what better time to offer some deals?
 
 ## Are you an Indie Developer?
