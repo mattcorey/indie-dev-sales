@@ -13,6 +13,10 @@ A few things that will help:
 - Try to add your entry in Alphabetical order, *BY DEVELOPER*. This should help to avoid most manual merges between different PR's, as changes will be in different parts of the doc.
 - Before submitting _and after merging_, please verify that your links are all working. I'll do my best to keep them consistent, but errors may happen.
 
+In your merge description, please answer the following question:  "Do you consent to having your app icon used in promotional materials?"
+
+Thanks!
+
 ## Are you a member of the Apple Press?  
 
 The Indie Dev's listed below would very much appreciate some coverage, and a follow on social media! 😉🙏❤️
