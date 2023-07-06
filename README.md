@@ -5,7 +5,7 @@
 Prime Day 2023 is coming, July 11-12 - people will be in a spending mood, so what better time to offer some deals?
 
 ## Are you an Indie Developer?
-Interested in joining?  Create a Pull Request with your info, or let me know on [Mastodon](https://indieapps.space/@Matt1Corey).  I'm trying to get to Pull Requests as quickly as I can, but I should be able to add you same day - if it seems slow, just ping me on Mastodon.
+Interested in joining?  Create a Pull Request with your info, or let me know on [Mastodon](https://iosdev.space/@Matt1Corey).  I'm trying to get to Pull Requests as quickly as I can, but I should be able to add you same day - if it seems slow, just ping me on Mastodon.
 
 A few things that will help:
 
