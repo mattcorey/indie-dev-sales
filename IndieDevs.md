@@ -14,7 +14,7 @@ A few things that will help:
 
 Thanks so much for participating!
 
-# Special Offer for participating apps!
+# Special Offer for participating Indie Developers!
 
 ## Glassfy - https://glassfy.io
 
