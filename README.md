@@ -2,13 +2,26 @@
 
 ![Indie App Sales!](./IndieAppSalesPromo.png)
 
-The Indie App Sales event is coming, July 11-12!  We have over 80 (🤯) participating sales - if you're an Indie Developer, we'd love to have your app.  If you're a member of the press, we'd all love to get some coverage!
+## About the list
+
+👋 Hi, and thanks for stopping by!  
+
+Below, you'll find a list of over 100 (🤯) Indie apps that are offering discounts for Indie App Sales, July 11-12!  Each of these apps is developed by an Indie App Developer - that can mean a lot of different things, but generally speaking, these are built by very small teams, or individuals either full time or part time.  Indie App Developers are the epitome of small businesses, and sure do appreciate your support!
+
+A few quick things to note:
+
+- The discounts and sales are offered by the developers listed individually - this site doesn't have any control over these discounts.  If you have questions, please reach out to the developer directly.
+- The list is organized by Category (the last column).  Within each category, they are alphabetical by Developer Name.
+- Some discounts will be offered directly on In-App Purchases, but others may require a promo code, or for you to follow the provided link.  Read carefully!
+- Most discounts are made available on the App Store, but some may be made through other store fronts.  If you have any questions, please contact the developer directly.
+
+Have fun! If you find an app you love, let us know by Tooting/Tweeting/Posting/Threading (is that a thing?) with the `#IndieAppSales` hashtag!
 
 ## Are you an Indie Developer?
 
-**Important Note:** We're just a few days away from the actual event - please get your submissions in before noon on July 10th (EDT)!  For anything beyond that, I can't guarantee that they'll be added!
+**Important Note:** Due to the timing constraints involved in the event, we are closed for new submissions.  If you need to submit a fix or update, you may still submit a PR, and I'll get to it as quickly as I can.
 
-Please see [the Guidelines for Indie Developers](./IndieDevs.md) if you're interested in participating.
+Please see [the Guidelines for Indie Developers](./IndieDevs.md) for more details.
 
 ## Are you a member of the Apple Press?  
 
