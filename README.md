@@ -12,6 +12,8 @@ Please see [the Guidelines for Indie Developers](./IndieDevs.md) if you're inter
 
 ## Are you a member of the Apple Press?  
 
+We currently have **over 100 participating apps!** There are some great deals to be found on some incredible apps here!
+
 The Indie Dev's listed below would very much appreciate some coverage, and a follow on social media! 😉🙏❤️
 
 # Indie Apps Sales
