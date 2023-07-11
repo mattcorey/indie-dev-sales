@@ -1,6 +1,6 @@
 # Guidelines for Indie Devs
 
-**Deadline:** Due to the timing requirements of the sale, **I can no longer accept any submissions**.  Any open submissions that simply require review or approval will be accepted once complete.
+**Deadline:** Due to the timing requirements of the sale, **I can no longer accept any submissions**.  Any open submissions as of the deadline that simply require review or approval will be accepted once complete.
 
 Dev's who are already on board:  **Please ensure that you've configured your discounts in AppStore Connect, or whatever store front you use!**
 
